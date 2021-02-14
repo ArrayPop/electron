@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="9.344" viewBox="0 0 13 9.344">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+        opacity: 0.56;
+      }
+    </style>
+  </defs>
+  <path id="dropdown.png" class="cls-1" d="M1514.99,28l-5.49,5.99L1504.01,28" transform="translate(-1503 -25.656)"/>
+</svg>
